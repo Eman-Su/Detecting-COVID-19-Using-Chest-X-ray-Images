@@ -1,0 +1,31 @@
+# Dependencies:
+#
+# Name                    Version                   Build  Channel
+lightly                   1.1.22                   pypi_0    pypi
+lightly-utils             0.0.2                    pypi_0    pypi
+matplotlib                3.3.4            py36h06a4308_0
+matplotlib-base           3.3.4            py36h62a2d02_0
+numpy                     1.19.2           py36h54aff64_0
+pandas                    1.1.5                    pypi_0    pypi
+pillow                    8.4.0                    pypi_0    pypi
+pydicom                   2.2.2                    pypi_0    pypi
+pytorch                   1.9.1           py3.6_cuda10.2_cudnn7.6.5_0    pytorch
+pytorch-gradcam           0.2.1                    pypi_0    pypi
+pytorch-lightning         1.5.0                    pypi_0    pypi
+scikit-learn              0.24.2           py36ha9443f7_0
+scikit-image              0.17.2           py36hdf5156a_0
+seaborn                   0.11.2                   pypi_0    pypi
+torchvision               0.10.1               py36_cu102    pytorch
+torchxrayvision           0.0.32                   pypi_0    pypi
+
+
+
+
+
+
+
+
+
+
+
+
